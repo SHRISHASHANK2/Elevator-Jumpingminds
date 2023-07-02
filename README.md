@@ -11,4 +11,4 @@
 - Tweak the parameters if you want
 - run it!
 
-You can watch a video of running this application on youtube [here](https://www.youtube.com/watch?v=J0lqZi_s7V0)
+
